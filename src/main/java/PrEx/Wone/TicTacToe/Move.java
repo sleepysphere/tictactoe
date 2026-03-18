@@ -1,6 +1,7 @@
 package PrEx.Wone.TicTacToe;
 
 public class Move {
+
     protected int row;
     protected int col;
 
@@ -15,5 +16,18 @@ public class Move {
             this.row = -1;
             this.col = -1;
         }
+    }
+
+    public Move(int i, int j) {
+        row = i;
+        col = j;
+    }
+
+    public int getRow() {
+        return row;
+    }
+
+    public int getCol() {
+        return col;
     }
 }

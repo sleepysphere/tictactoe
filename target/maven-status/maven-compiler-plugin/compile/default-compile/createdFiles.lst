@@ -1,7 +1,4 @@
 PrEx\Wone\TicTacToe\App.class
 PrEx\Wone\TicTacToe\MachineMove.class
-PrEx\Wone\TicTacToe\GameStatus.class
-PrEx\Wone\TicTacToe\InitializeTable.class
 PrEx\Wone\TicTacToe\Move.class
-PrEx\Wone\TicTacToe\Test.class
 PrEx\Wone\TicTacToe\GameLogic.class
